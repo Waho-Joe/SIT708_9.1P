@@ -100,7 +100,7 @@ public class CreateAdvert extends AppCompatActivity {
         });
 
         if (!Places.isInitialized()) {
-            Places.initialize(getApplicationContext(), "AIzaSyAoiW3xll4OSVCzFUlSbKABru1jDR6KWHU");
+            Places.initialize(getApplicationContext(), "API_KEY");
         }
         setupAutocomplete();
         editLocation.setOnClickListener(v -> openPlaceAutocomplete());
