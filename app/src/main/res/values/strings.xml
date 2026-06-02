@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SIT708_7.1P</string>
+    <string name="show_all_lost_found_items"><![CDATA[SHOW ALL LOST & FOUND ITEMS]]></string>
+    <string name="create_a_new_advert">CREATE A NEW ADVERT</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
