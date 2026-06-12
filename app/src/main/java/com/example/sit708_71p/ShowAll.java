@@ -84,11 +84,6 @@ public class ShowAll extends AppCompatActivity {
         String[] categories = {
                 "All",
                 "Electronics",
-                "Pets",
-                "Wallets",
-                "Keys",
-                "Bags",
-                "Documents",
                 "Other"
         };
 
