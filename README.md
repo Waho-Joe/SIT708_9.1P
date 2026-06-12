@@ -40,3 +40,6 @@ app/src/main/res/layout/
 ├── activity_show_all.xml
 ├── activity_item_details.xml
 └── activity_maps.xml
+
+app/src/main/
+└── AndroidManifest.xml
